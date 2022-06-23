@@ -2,8 +2,8 @@
     "cdk_version": "2.24.0",
     "environments": {
         "dev": {
-            "account": "222222222222",
-            "region": "us-east-1",
+            "account": "729100711880",
+            "region": "us-east-2",
             "resources": {
                 "ddk-bucket": {"versioned": false, "removal_policy": "destroy"}
             }
